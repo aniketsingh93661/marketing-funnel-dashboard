@@ -5,7 +5,7 @@
 This Power BI dashboard analyzes the complete marketing funnel using interactive visualizations and KPIs.
 
 ##  Dashboard Preview
-Screenshot 2026-07-15 172559.png
+C:\Users\Aniket Singh\OneDrive\Pictures\Screenshots
 
 ##  KPIs
 
